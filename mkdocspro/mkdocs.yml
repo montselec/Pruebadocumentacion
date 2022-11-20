@@ -1,1 +1,4 @@
 site_name: My Documentacion por Victor
+nav:
+    - Principal: 'index.md'
+    - Sobre mí: 'about.md'
