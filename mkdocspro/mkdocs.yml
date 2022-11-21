@@ -1,4 +1,6 @@
-site_name: My Documentacion por Victor
+site_name: My Docs
+site_url: https://example.com/
 nav:
-    - Principal: 'index.md'
-    - Sobre mí:  'about.md'
+    - Home: index.md
+    - Article: article.md
+   
