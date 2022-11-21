@@ -3,5 +3,4 @@ site_url: https://example.com/
 nav:
     - Home: index.md
     - Article: article.md
-    - Sobre mi: about.md
    
